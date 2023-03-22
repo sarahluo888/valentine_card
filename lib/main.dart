@@ -49,7 +49,7 @@ class MyWidget extends StatelessWidget {
                 color: Colors.grey.withOpacity(0.9),
                 spreadRadius: 9,
                 blurRadius: 8,
-                offset: Offset(0, 8), // changes position of shadow
+                offset: Offset(0, 9), // changes position of shadow
               ),
             ],
           ),
